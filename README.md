@@ -1,4 +1,4 @@
 # hello-world
 getting Started
-** this is bold **
-* italic *
+**this is bold**
+*italic*
